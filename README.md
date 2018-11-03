@@ -1,2 +1,1 @@
-"# myway" 
-https://keybro.github.io/myway/
+Landing 5 sections https://keybro.github.io/myway/
