@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.page-header {
+    background-image: url(../img/slide-1.jpg);
+}
+
+.main-nav {
+    list-style: none;
+}
+
+.main-nav li {
+    display: inline;
+    margin-right: 5px;
+
+}
+
+.main-nav a {
+    color: #ffffff;
+}
